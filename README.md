@@ -2,7 +2,7 @@
 
 ## 🛠️ About Me | Sobre Mim
 
-### 🇬🇧 English
+### :us: English
 
 I am a Fullstack Developer with extensive experience in frontend development, specializing in **React**, **Flutter**, and **Node.js**. I played a key role in developing a critical application for the **Civil Defense of Pernambuco** using **Python**, **Flutter**, **Node.js**, and **MongoDB**. I also led the development of a website using **Streamlit**, a mobile app with **Flutter**, and a REST API with **Node.js**. Moreover, I spearheaded the development of two Flutter applications integrated with **Node.js** and **MariaDB**, along with freelance projects involving **React** and **Node.js**.
 
