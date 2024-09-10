@@ -40,7 +40,7 @@ Atualmente, estou trabalhando como **desenvolvedor backend** na **COMEIA**, onde
 
 - **Frontend:** React, JavaScript, TypeScript, Flutter
 - **Backend:** Node.js, Java, Spring Boot, SQL, MongoDB
-- **Others:** Docker, Git/Github, UX
+- **Others:** Docker, Git/Github, UX, Azure DevOps
 
 ---
 
